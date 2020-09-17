@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomx&layout=compact" alt="marcelomx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomx&show_icons=true" alt="marcelomx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcelomx&show_icons=true" alt="marcelomx" /></p>
 
 <p align="center">
 <a href="https://dev.to/marcelomx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marcelomx" height="30" width="30" /></a>
