@@ -1,0 +1,14 @@
+---
+isSinglePage: false
+description: 'Site pessoal de Marcelo Rodrigues, Engenheiro de Software'
+avatar: 'img/public-profile.jpg'
+favicon: 'icons/favicon.ico'
+disqusShortname: ''
+emoji:
+  enableEmoji: true
+giscus:
+  enable: false
+  repo: ''
+  repoId: ''
+  category: 'Announcements'
+  categoryId: ''
