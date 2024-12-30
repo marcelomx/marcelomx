@@ -1,0 +1,32 @@
+---
+main:
+  - identifier: 'sobre'
+    name: 'Sobre'
+    url: '/'
+    weight: 1
+  - identifier: 'linkedin'
+    name: 'Linkedin'
+    url: 'http://linkedin.com/in/marcelomx'
+    weight: 3
+  - identifier: 'devto'
+    name: 'Dev.to'
+    url: 'http://dev.to/marcelomx'
+    weight: 4
+  - identifier: 'github'
+    name: 'GitHub'
+    url: 'http://github.com/marcelomx'
+    weight: 5
+
+social:
+  - identifier: 'linkedin'
+    name: 'Linkedin'
+    url: 'http://linkedin.com/in/marcelomx'
+    weight: 1
+  - identifier: 'devto'
+    name: 'Dev.to'
+    url: 'http://dev.to/marcelomx'
+    weight: 2
+  - identifier: 'github'
+    name: 'GitHub'
+    url: 'http://github.com/marcelomx'
+    weight: 3

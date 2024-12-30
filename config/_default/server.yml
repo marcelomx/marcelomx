@@ -1,0 +1,6 @@
+redirects:
+  - from: /
+    status: 301
+    to: /sobre/
+  - from: /en
+    to: /en/about/
